@@ -3,7 +3,7 @@ Forked from @inotia00 's [VancedMicroG](https://github.com/inotia00/VancedMicroG
 # Vanced MicroG
 
 ![Build Status](https://github.com/TeamVanced/VancedMicroG/workflows/Debug%20APK%20Builder/badge.svg)
-[![Github All Releases](https://img.shields.io/github/downloads/inotia00/VancedMicroG/total.svg)](https://github.com/HBP87/VancedMicroG/releases) [![Github All Releases](https://img.shields.io/github/release/inotia00/VancedMicroG.svg)](https://github.com/HBP87/VancedMicroG/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/HBP87/VancedMicroG/total.svg)](https://github.com/HBP87/VancedMicroG/releases) [![Github All Releases](https://img.shields.io/github/release/HBP87/VancedMicroG.svg)](https://github.com/HBP87/VancedMicroG/releases)
 
 microG GmsCore is a FLOSS (Free/Libre Open Source Software) framework to allow applications designed for Google Play Services to run on systems, where Play Services is not available.
 
